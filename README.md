@@ -14,4 +14,5 @@ Constrained Optimization in Matlab.
   such that  Ax <= b and A1x = b1 where 
   x >= 0  
   c and b are column Vectors and A is Matrix.
+  --------------------------------------------
   
